@@ -48,3 +48,78 @@
    48  git merge developed
    49  git log
    50  history > command_list.csv
+   51  git add
+   52  ls
+   53  git status
+   54  git add command_list.csv
+   55  git commit
+   56  git push
+   57  pwd
+   58  cd /c/Users/UN23019247/Documents/test_folder_goit/
+   59  cd /c/Users/UN23019247/Documents/test_folder_goit/gitgoit/GitCours/HW_10
+   60  ls
+   61  touch main_test.txt
+   62  git add. main_test.txt
+   63  git add main_test.txt
+   64  git status
+   65  git commit -m "Go-Go!"
+   66  git add all
+   67  git rm -r --cached .
+   68  git status
+   69  git add .
+   70  cd /c/Users/UN23019247/
+   71  cd /c/Users/UN23019247/Documents/test_folder_goit/gitgoit/GitCours/HW_10
+   72  cd /c/Users/UN23019247/Documents/test_folder_goit/gitgoit/GitCours/HW_10
+   73  git clone https://github.com/IggySpook/HW_10.git
+   74  ls
+   75  git touch main_test.txt
+   76  touch main_test.txt
+   77  ls
+   78  git add main_test.txt
+   79  git status 
+   80  git commit
+   81  git add -a
+   82  git commit -m "go-go!"
+   83  git add main_test.txt
+   84  git commit -m "Work,PLS"
+   85  git commit -a
+   86  ls
+   87  cd /c/Users/UN23019247/Documents/test_folder_goit/
+   88  cd /c/Users/UN23019247/Documents/test_folder_goit/gitgoit/GitCours/HW_10/HW_10
+   89  ls
+   90  touch main_test.txt
+   91  ls
+   92  git add main_test.txt
+   93  git status
+   94  git commit -m "Go-go!"
+   95  checkout
+   96  git branch
+   97  checkout develop
+   98  git branch develop
+   99  git branch
+  100  checkout develop
+  101  git checkout develop
+  102  touch develop_test.txt
+  103  git add develop_test.txt
+  104  git commit -m "PLS WORK"
+  105  ls
+  106  git add .
+  107  git status
+  108  git log develop
+  109  nano develop_test.txt
+  110  git status
+  111  git add .
+  112  git status
+  113  git commit -m "PLS WORK"
+  114  checkout main
+  115  checkout main
+  116  git checkout main
+  117  branch
+  118  git branch 
+  119  git checkout main
+  120  git merge develop
+  121  git log
+  122  cd /c/Users/UN23019247/Documents/test_folde_goit/
+  123  cd /c/Users/UN23019247/Documents/test_folder_goit/gitgoit/GitCours/HW_10/HW_10
+  124  git status
+  125  history > command_list.csv
