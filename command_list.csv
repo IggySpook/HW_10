@@ -123,3 +123,32 @@
   123  cd /c/Users/UN23019247/Documents/test_folder_goit/gitgoit/GitCours/HW_10/HW_10
   124  git status
   125  history > command_list.csv
+  126  ls
+  127  git status
+  128  git add command_list.csv
+  129  git status
+  130  git commit -m "WORK"
+  131  git push 
+  132  cd /c/Users/UN23019247/Documents/test_folder_goit/gitgoit/GitCours/HW_10/HW_10
+  133  branch
+  134  git branch
+  135  git checkout develop
+  136  chekout develop 
+  137  checkout develop 
+  138  git checkout develop 
+  139  git branch
+  140  ls
+  141  git add .
+  142  git status
+  143  nano develop_test.txt
+  144  git add
+  145  git add .
+  146  git status
+  147  git commit -m "Haha"
+  148  git push
+  149  checkout main
+  150  git checkout main
+  151  merge develop
+  152  git merge develop
+  153  git log
+  154  history > command_list.csv
